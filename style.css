@@ -1,0 +1,37 @@
+body{
+    background-color:cadetblue
+}
+
+h1{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 900;
+    color: #033E3E;
+    
+    
+}
+
+img{
+    border: 10px solid black;
+}
+
+h2{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 700;
+    color: #033E3E;
+}
+
+h3{
+    color:midnightblue
+}
+
+a{
+    color:black;
+}
+
+li{
+    color: purple;
+}
+
+p{
+    color: #2E1A47;
+}
